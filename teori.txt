@@ -1,0 +1,7 @@
+     Algoritma greedy adalah solusi yang digunakan untuk memecahkan masalah untuk mencari nilai optimum. Namun, hasil yang didapatkan algoritma greedy tidak selalu optimal, 
+melainkan memberikan solusi yang mendekati nilai optimal dalam waktu yang cukup cepat.
+Algoritma greedy ini sering digunakan untuk memecahkan masalah yang kompleks.
+
+contoh dan implementasi :
+saat kita menggunakan google maps, sistem akan secara otomatis mencarikan jalur/jarak terdekat dari titik A ke titik B. Memang 
+jalur yang dipilih bukan yang paling optimal, tapi algoritma greedy ini mencarikan jawaban cepat atas masalah yang terjadi. 
